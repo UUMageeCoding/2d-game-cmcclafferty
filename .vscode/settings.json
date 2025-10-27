@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "github_practicle.sln"
+    "dotnet.defaultSolution": "2d-game.sln"
 }
